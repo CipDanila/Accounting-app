@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/Accounting-app/static/css/main.63beec76.css",
-    "main.js": "/Accounting-app/static/js/main.328f19e2.js",
-    "static/media/background.jpg": "/Accounting-app/static/media/background.618e2c8d07b8c86e1d83.jpg",
-    "static/media/slick.svg": "/Accounting-app/static/media/slick.2630a3e3eab21c607e21.svg",
-    "static/media/slick.eot": "/Accounting-app/static/media/slick.a4e97f5a2a64f0ab1323.eot",
-    "static/media/slick.ttf": "/Accounting-app/static/media/slick.c94f7671dcc99dce43e2.ttf",
-    "static/media/slick.woff": "/Accounting-app/static/media/slick.295183786cd8a1389865.woff",
-    "index.html": "/Accounting-app/index.html",
-    "main.63beec76.css.map": "/Accounting-app/static/css/main.63beec76.css.map",
-    "main.328f19e2.js.map": "/Accounting-app/static/js/main.328f19e2.js.map"
+    "main.css": "/accounting-app/static/css/main.8db080ed.css",
+    "main.js": "/accounting-app/static/js/main.328f19e2.js",
+    "static/media/background.jpg": "/accounting-app/static/media/background.618e2c8d07b8c86e1d83.jpg",
+    "static/media/slick.svg": "/accounting-app/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/accounting-app/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/accounting-app/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/accounting-app/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/accounting-app/index.html",
+    "main.8db080ed.css.map": "/accounting-app/static/css/main.8db080ed.css.map",
+    "main.328f19e2.js.map": "/accounting-app/static/js/main.328f19e2.js.map"
   },
   "entrypoints": [
-    "static/css/main.63beec76.css",
+    "static/css/main.8db080ed.css",
     "static/js/main.328f19e2.js"
   ]
 }
