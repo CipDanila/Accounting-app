@@ -1,0 +1,26 @@
+.text-block-content {
+    overflow: hidden;
+    margin-top: 50px;
+    text-align: center;
+    padding: 30px 20px;
+}
+
+.text-block-icon {
+    border-radius: 50%;
+    width: 70px;
+    height: 70px;
+    padding: 5px;
+    font-size: 60px;
+    font-weight: 400;
+    background-color: #1ba12d;
+    color: #fff;
+    margin: auto;
+}
+
+.text-block-title {
+    font-size: 25px;
+}
+
+.text-block-description {
+    font-size: 16px;
+}

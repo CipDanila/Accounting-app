@@ -1,0 +1,29 @@
+.footer {
+    color: #fff;
+    padding: 40px 30px 40px;
+    justify-content: center;    /*orizontal*/
+    align-items: center;    /*verical*/
+    background-color: rgba(0, 0, 0, 0.9);
+}
+
+.footer-company {
+    width: 48%;
+    float: left;
+    text-align: right;
+}
+
+.footer-link {
+    width: 48%;
+    float: right;
+    text-align: left;
+}
+
+.footer-link-element {
+    list-style: none;
+}
+
+.footer-link-element a {
+    text-decoration: none;
+    color: #fff;
+    display: block;
+}

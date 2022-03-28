@@ -1,0 +1,21 @@
+.slick-next {
+    right: 25px;
+}
+
+.slick-prev {
+    left: 25px;
+    z-index: 1;
+}
+
+.slick-slide {
+    text-align: center;
+}
+
+.slick-slide img {
+    display: inline-block;
+}
+
+img {
+    width: 100%;
+    height: auto;
+}

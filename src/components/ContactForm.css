@@ -1,0 +1,35 @@
+.contact-form {
+    max-width: 800px;
+    margin: auto;
+    padding: 40px;
+}
+
+.form-label {
+    display: block;
+    padding: 5px 0;
+}
+
+.form-element {
+    display: block;
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #1ba12d;
+}
+
+.form-button {
+    background: #fff;
+    border: 1px solid #1ba12d;
+    color: #1ba12d;
+    padding: 15px 28px;
+    border-radius: 25px;
+    cursor: pointer;
+}
+
+.form-button:hover {
+    background: #1ba12d;
+    color: #fff;
+}
+
+.form-row {
+    margin-bottom: 20px;
+}
